@@ -2,7 +2,7 @@
 
 😄 Pronouns: he/him
 <br/><br/>
-- ## 🧑‍🎓Ist year BCA student
+- ##  🎓 BCA'24 undergrad
 <br/><br/>
 - ## 🌱 Currently exploring tech
 
