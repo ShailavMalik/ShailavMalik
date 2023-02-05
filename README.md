@@ -30,10 +30,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=ShailavMalik&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-<br>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShailavMalik)  
-
+<br> 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ShailavMalik&icon=5&color=9)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shailavmalik&label=Profile%20views&color=0e75b6&style=flat" alt="shailavmalik" /> </p>
+
