@@ -2,7 +2,7 @@
 ### Thanks for visiting my Github profile
 <br>
 
- 💫I am an enthusiastic web developer<br>👯 I Want to collaborate on web dev projects<br>🌱 Currently learning full-stack web development and  DSA<br> 🎓 BCA'24 undergraduate<br>
+ 💫I am an enthusiastic web developer<br>👯 I Want to collaborate on web dev projects<br>🌱 Currently learning full-stack web development and  DSA<br> 🎓 final year BCA student <br>
   📫 How to reach me: 
   [malikshailav@gmail.com](mailto:malikshailav@gmail.com)
 
