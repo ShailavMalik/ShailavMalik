@@ -2,17 +2,12 @@
 ### Thanks for visiting my Github profile
 <br>
 
- 💫I am an enthusiastic web developer<br>👯 I Want to collaborate on web dev projects<br>🌱 Currently learning full-stack web development and  DSA<br> 🎓 final year BCA student <br>
-  📫 How to reach me: 
-  [malikshailav@gmail.com](mailto:malikshailav@gmail.com)
+ 💫I am an enthusiastic web developer<br>👯 I Want to collaborate on web dev projects<br>🌱 Currently learning full-stack web development and  DSA<br> 🎓 First year MCA student <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shailavmalik) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ShailavMalik) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shailavmalik1) 
 <br>
-## Projects
-[https://github.com/ShailavMalik/Web_Dev_projects](https://github.com/ShailavMalik/Web_Dev_projects)
-<br><br>
 
 
 # 💻 Tech Stack:
