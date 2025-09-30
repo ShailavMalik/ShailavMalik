@@ -2,7 +2,7 @@
 ### Thanks for visiting my GitHub profile
 <br>
 
- 💫I am an enthusiastic MERN stack developer<br>👯 I Want to collaborate on web dev projects<b>🧑‍💻Open for dev roles<br>🌱 <br> 🎓 Final year MCA student <br>
+ 💫I am an enthusiastic MERN stack developer<br>👯 I Want to collaborate on web dev projects<br>🧑‍💻Open for dev roles<br> 🎓 Final year MCA student <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shailavmalik) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ShailavMalik) 
