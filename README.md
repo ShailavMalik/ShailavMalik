@@ -1,8 +1,8 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shailav Malik
-### Thanks for visiting my Github profile
+### Thanks for visiting my GitHub profile
 <br>
 
- 💫I am an enthusiastic web developer<br>👯 I Want to collaborate on web dev projects<br>🌱 Currently learning full-stack web development and  DSA<br> 🎓 First year MCA student <br>
+ 💫I am an enthusiastic MERN stack developer<br>👯 I Want to collaborate on web dev projects<b>🧑‍💻Open for dev roles<br>🌱 <br> 🎓 Final year MCA student <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shailavmalik) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ShailavMalik) 
